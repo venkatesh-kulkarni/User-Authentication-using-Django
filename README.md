@@ -1,3 +1,3 @@
 # User-Authentication-using-Django
 
-Created 
+Created a user authentication page using Django and PostgreSQL database.
